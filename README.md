@@ -1,10 +1,10 @@
 # Refactoring Project
 
-This is the replication package for the refactoring analysis project.
+This is the replication package for the paper: When and how to split classes: an exploratory study.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Download the files to your computer and check the prerequisites to reproduce the results.
 
 ### Prerequisites
 
