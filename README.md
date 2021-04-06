@@ -1,4 +1,4 @@
-# Project to Anti-bloater Class Restructuring
+# Project - Anti-bloater Class Restructuring
 
 This is the replication package for the paper: `Anti-bloater class restructuring: an exploratory study`.
 
