@@ -1,6 +1,6 @@
-# Restructuring Project
+# Project to Anti-bloater Class Restructuring
 
-This is the replication package for the paper: When and how to split classes: an exploratory study.
+This is the replication package for the paper: * `Anti-bloater class restructuring: an exploratory study` *.
 
 ## Getting Started
 
