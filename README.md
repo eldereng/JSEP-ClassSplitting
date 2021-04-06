@@ -38,8 +38,6 @@ c) Jupyter Project avaliable in: https://jupyter.org/
 
 	- The next step is to verify if refactoring has undergone in the classes where those high variations of LCOM have occurred. Thus, we performed a qualitative manual inspection. Due to the large number of classes (1,048), we extracted a random sample to conduct this manual inspection. Thus, this sample are inside the file `InspectedClassesFinal.xlsx`.
 	
-\newtext{The verification if two versions of a same class in two consecutive releases has undergone a split-refactoring (\textsc{Extract class} or \textsc{Extract superclass}) is essentially based on the  inspection if there is 1) a new class that has been created and 2) either a instance variable  in the new version of the original class referencing the created class (\textsc{Extract class}), or  an \texttt{extends} clause in the created class extending the original class (\textsc{Extract Superclass}). Moreover, methods and variables should have been moved from the original class to the created class.} 
-
 
 ## Section 5. PREDICTIVE MODEL FOR REFACTORING
 
