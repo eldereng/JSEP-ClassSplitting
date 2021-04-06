@@ -2,8 +2,7 @@
 
 This is the replication package for the paper: `Anti-bloater class restructuring: an exploratory study`.
 
-* [![DOI](https://zenodo.org/10.5281/zenodo.4666475.svg)](http://doi.org/10.5281/zenodo.4666475)
-
+* [![DOI](https://zenodo.org/badge/355246395.svg)](https://zenodo.org/badge/latestdoi/355246395)
 
 ## Getting Started
 
