@@ -36,7 +36,7 @@ c) Jupyter Project avaliable in: https://jupyter.org/
 
 2) Run R Script (`ExtractPositiveClasses.R`) to extract restructured classes from `MetricsPerClassReleaseOrdered.csv`. This script analyzes the evolution of the LCOM metric of a given class by calculating the difference between the values of the metric from one release to another. Thus, 1048 classes are selected and the file `PositiveClasses.csv` is created.
 
-	- The next step is to verify if refactoring has undergone in the classes where those high variations of LCOM have occurred. Thus, we performed a qualitative manual inspection. Due to the large number of classes (1,048), we extracted a random sample to conduct this manual inspection. Thus, this sample are inside the file `InspectedClassesFinal.xlsx`.
+	- The next step is to verify if refactoring has undergone in the classes where those high variations of LCOM have occurred. Thus, we performed a qualitative manual inspection. Due to the large number of classes (1,048 in `PositiveClasses.csv`), we extracted a random sample to conduct this manual inspection and this sample are inside the file `InspectedClassesFinal.xlsx`.
 	
 
 ## Section 5. PREDICTIVE MODEL FOR REFACTORING
