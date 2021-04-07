@@ -51,7 +51,7 @@ c) Jupyter Project avaliable in: https://jupyter.org/
 	
 	- 4.1) Inside this file, we have a python code and model details, i.e., `confusion matrix`, `f1-score`, `precision` and `recall`.
 
-	- 4.2) The following image shows the result (Decision Tree => ≈ 0.97 F1-score):
+	- 4.2) The following image shows the result (Decision Tree => ≈ 0.95 F1-score):
 	
 	- <img src="OutputDecisionTree/DecisionTree.png" alt="drawing" width="800"/>
 
