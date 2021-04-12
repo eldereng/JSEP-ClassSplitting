@@ -32,7 +32,7 @@ c) Jupyter Project avaliable in: https://jupyter.org/
 
 
 
-## Section 4. AN EXPLORATORY TEMPORAL STUDY OF CLASS STRUCTURE
+## Section 3. AN EXPLORATORY TEMPORAL STUDY OF CLASS STRUCTURE
 
 1) Extract the file `MetricsPerClassReleaseOrdered.csv` from file `MetricsPerClassReleaseOrdered.csv.zip`. This file has the metrics for all classes per release ordered by class name and release. We used the tool CKJM extended to collect structural and quality metrics for these classes in all available releases. So, the data on this file is used to select classes that were restructured (next step).
 
@@ -41,7 +41,7 @@ c) Jupyter Project avaliable in: https://jupyter.org/
 	- The next step is to verify if refactoring has undergone in the classes where those high variations of LCOM have occurred. Thus, we performed a qualitative manual inspection. Due to the large number of classes (1,048 in `PositiveClasses.csv`), we extracted a random sample to conduct this manual inspection and this sample are inside the file `InspectedClassesFinal.xlsx`.
 	
 
-## Section 5. PREDICTIVE MODEL FOR REFACTORING
+## Section 4. PREDICTIVE MODEL FOR REFACTORING
 
 3) Next, we use a python script to create a balanced dataset of refactored and non-refactored classes. This script (`CreateDatasetBalancedRefactFinal.ipynb`) create the file `DatasetBalancedRefactFinal.csv`. This file has all classes of the file `PositiveClasses.csv` and other classes are randomly selected from the file `MetricsPerClassReleaseOrdered.csv` (classes non refactored - `NegativeClasses.csv`).
 
